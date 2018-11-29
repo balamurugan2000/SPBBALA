@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int a=1,float b=3.0;
+int c=a+b;
+cout<<"The value of c is ",c;
+getch();
+}
